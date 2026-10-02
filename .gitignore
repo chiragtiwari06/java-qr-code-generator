@@ -1,0 +1,12 @@
+# Maven build folder
+/target/
+
+# IDE / VS Code configuration files
+.vscode/
+.settings/
+.classpath
+.project
+
+# Temporary preview images
+temp_preview.png
+*.log
